@@ -1,3 +1,9 @@
+# GCP Credentials
+credentials.json
+
+# keys
+ssh-*
+
 # Local .terraform directories
 **/.terraform/*
 
